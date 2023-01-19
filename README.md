@@ -2,7 +2,7 @@
 A website front-end prototype built using Figma that revolves around various accessibility-friendly places in Tokyo.
 
 ## Link
-https://www.figma.com/file/7ZbeSYch9tt8NMwoIzF3u7/Saqafat?node-id=0%3A1![33](https://user-images.githubusercontent.com/82564549/213556250-fd337bf0-1afe-4933-a0f4-6a5ffd147b3f.png)
+https://www.figma.com/file/7ZbeSYch9tt8NMwoIzF3u7/Saqafat?node-id=0%3A1
 
 
 ## All Pages Found Here
